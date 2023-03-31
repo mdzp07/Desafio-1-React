@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /*Cambiar color de fuente para cumplir con punto numero 6 del desafio*/
+  color: #ccc;
+  font-weight: bold;
+  background-color: antiquewhite;
+  text-align: center;
+}

@@ -1,0 +1,29 @@
+.containerCard{
+  display: flex;
+  gap: 20px;
+  justify-content: space-around;
+  margin-top: 2rem;
+  padding-bottom: 5rem;
+}
+
+.formatImg {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.formatCard{
+  width: 21rem;
+  background-color: grey;
+  padding-bottom: 1rem;
+  font-size: 14pt;
+}
+
+.footer {
+  background-color: grey;
+  padding-top: 1rem;
+}
+
+.sinMargin{
+  margin-bottom: 0px;
+  padding-bottom: 1rem;
+}
